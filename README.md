@@ -1,3 +1,7 @@
+# Idleflix
+
+Project designated to store source code of Alura Course [Imersão React](https://www.alura.com.br/imersao-react).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
