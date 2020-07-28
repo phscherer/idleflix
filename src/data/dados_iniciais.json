@@ -1,183 +1,183 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Weekly Events",
+      "link": "https://www.youtube.com/channel/UC-hfQMjwCis3JeALqDjL-2g",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Barry Gaming presents Idle Heroes News and Updates",
+        "url": "https://www.youtube.com/playlist?list=PLLEV2lQg3UoAHw7uUPAFAwC1ibBb3B_BF"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Imp's, Shelter & Giveaways",
+          "url": "https://www.youtube.com/watch?v=_3Ijr7Sy9Q8"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Giveaway Winners & Next Giveaway",
+          "url": "https://www.youtube.com/watch?v=HVyRYZiDpcc"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Drake, Ruyi & 16k Sub Account Giveaways",
+          "url": "https://www.youtube.com/watch?v=GZrNvtSFvNw"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Prophet Orbs and Giveaway Winners",
+          "url": "https://www.youtube.com/watch?v=8nTJqqeEEVc"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Prophet Orbs & Giveaways 7-14-20",
+          "url": "https://www.youtube.com/watch?v=O9IKsnYYsMs"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "New Rogan Hero & VIP 13 Giveaway 7-9-20",
+          "url": "https://www.youtube.com/watch?v=hRo58D1FU80"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "New Heroes, Returning Events & Giveaways 7-7-20",
+          "url": "https://www.youtube.com/watch?v=oSj2LLc7FIo"
+        }      
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Petrify Meme Team",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Barry Gaming presents Petrify's Meme Team",
+        "url": "https://www.youtube.com/playlist?list=PLLEV2lQg3UoAIsn4A_YWg8BMvB9I0zoGT"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Petrify Meme Team",
+          "url": "https://www.youtube.com/watch?v=wis-8NnxfFE"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Petrify Meme Team Progress and Account Giveaway Winner",
+          "url": "https://www.youtube.com/watch?v=cyOOYtzVRCE"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Petrify Meme Team Prophet Orbs",
+          "url": "https://www.youtube.com/watch?v=QBDI9XLVx6c"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Petrify Meme Team Enabling Jahra",
+          "url": "https://www.youtube.com/watch?v=SXh5f--z46U"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Petrify Meme Team Unlocking Our Stone Golem Pet",
+          "url": "https://www.youtube.com/watch?v=tTJL38wkcyE"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Guides",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Barry Gaming presents guides of Idle Heroes",
+        "url": "https://www.youtube.com/playlist?list=PLLEV2lQg3UoBfBp1ea3fJ9bNFBEPz-Ksg"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "How to Build a Skerei Army Guide",
+          "url": "https://www.youtube.com/watch?v=nH1pmwwMcU4"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Who Should Be Your First E5 Hero Guide",
+          "url": "https://www.youtube.com/watch?v=nmbWwWqK-XE"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Amen-Ra - Support Hero Guide",
+          "url": "https://www.youtube.com/watch?v=KExKQ3YKdMg"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "E5 Carrie Overview, First Thoughts, & Gameplay",
+          "url": "https://www.youtube.com/watch?v=6slHeo2RDjg"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Flame Shrine",
       "cor": "orange",
+      "link_extra": {
+        "text": "Barry Gaming presents Flame Shrine videos",
+        "url": "https://www.youtube.com/playlist?list=PLLEV2lQg3UoCrtpYq8BnqsJ0wAcbq3WZ5"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Russell PvE with Rogan - Amazing But Squishy",
+          "url": "https://www.youtube.com/watch?v=TdeSg_tyGJg"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Russell Doing 14 Billion Damage vs Barea",
+          "url": "https://www.youtube.com/watch?v=7c8mBIsYa_I"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Garuda vs Kamath Flame Shrine",
+          "url": "https://www.youtube.com/watch?v=qYC7MNdxZEE"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Tara vs Dark Arthindol",
+          "url": "https://www.youtube.com/watch?v=8UJyOsxHtlM"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Seal Land",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Barry Gaming presents Seal Land videos",
+        "url": "https://www.youtube.com/playlist?list=PLLEV2lQg3UoCltxSi-XvHlCx2z_XLGDcN"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Delacium Popping Off in Seal Land",
+          "url": "https://www.youtube.com/watch?v=T0L_pAV4-_4"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Royalty Meme Team Fully Ascended Delacium",
+          "url": "https://www.youtube.com/watch?v=oSS9sMjw7kQ"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Forest Seal Land 20 with Rogan",
+          "url": "https://www.youtube.com/watch?v=Lgf5g_8ZeN0"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Petrify Meme Team Pushing to Complete Dark Seal Land",
+          "url": "https://www.youtube.com/watch?v=HWAjVSp15is"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Fortress Seal Land Giveaway Account Progress",
+          "url": "https://www.youtube.com/watch?v=-ddho1Xq1As"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "PvP",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Barry Gaming presents Player vs. Player videos",
+        "url": "https://www.youtube.com/playlist?list=PLLEV2lQg3UoBT1Wn5udOZzGKGQ_mPnB7s"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Can We Get Faith Blade to Work",
+          "url": "https://www.youtube.com/watch?v=XTpfYyeNlwk"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Rogan Endgame PvP Lineup Testing",
+          "url": "https://www.youtube.com/watch?v=4OlBP9BTXwQ"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Did You Skip Anniversary? Rogan without Drake or Russell",
+          "url": "https://www.youtube.com/watch?v=QG6suNokfB4"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Drake PvP First Impressions",
+          "url": "https://www.youtube.com/watch?v=zas234V1MGQ"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Mihm & Carrie New Best Friends",
+          "url": "https://www.youtube.com/watch?v=sxkQQUzxkw8"
         }
       ]
     }

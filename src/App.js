@@ -10,9 +10,9 @@ function App() {
     <div style={{ background: "#141414" }}>
       <Menu />
       <BannerMain
-        videoTitle={data.categorias[0].videos[0].titulo}
-        url={data.categorias[0].videos[0].url}
-        videoDescription={"O que é front-end? Trabalhando na área..."}
+        videoTitle={data.categorias[0].videos[1].titulo}
+        url={data.categorias[0].videos[1].url}
+        videoDescription={"Stay tuned for news involving the mobile game Idle Heroes"}
       />
       {
         data.categorias.map((categoria) => (

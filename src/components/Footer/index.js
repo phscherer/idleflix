@@ -1,18 +1,23 @@
 import React from 'react';
 import { FooterBase } from './styles';
+import IdleHeroesLogo from '../../assets/img/IdleHeroesLogo.png';
 
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+      <a href="https://play.google.com/store/apps/details?id=com.droidhang.ad">
+        <img src={IdleHeroesLogo} alt="Logo Alura" />
       </a>
       <p>
-        Orgulhosamente criado durante a
-        {' '}
-        <a href="https://www.alura.com.br/">
-          Imersão React da Alura
+        {'All rights reserved to YouTube channel '}
+        <a href="https://www.youtube.com/channel/UC-hfQMjwCis3JeALqDjL-2g">
+          Barry Gaming
         </a>
+        {' and to '}
+        <a href="https://github.com/phscherer">
+          developer
+        </a>
+        {' of this portal.'}
       </p>
     </FooterBase>
   );
