@@ -6,7 +6,11 @@ function Footer() {
   return (
     <FooterBase>
       <a href="https://play.google.com/store/apps/details?id=com.droidhang.ad">
-        <img src={IdleHeroesLogo} alt="Logo Alura" />
+        <img
+          src={IdleHeroesLogo}
+          alt="Logo IdleHeroes"
+          style={{ width: '225px', height: '100px' }}
+        />
       </a>
       <p>
         {'All rights reserved to YouTube channel '}
