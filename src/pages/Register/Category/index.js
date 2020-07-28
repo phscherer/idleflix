@@ -6,6 +6,15 @@ function RegisterCategory() {
   return (
     <TemplateBase>
       <h1>Cadastro de categoria</h1>
+      <form>
+        <label>
+          Nome da Categoria:
+          <input type="text" />
+        </label>
+        <button>
+          Cadastrar
+        </button>
+      </form>
       <Link to="/">
         Voltar para página inicial
       </Link>
