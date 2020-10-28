@@ -7851,7 +7851,7 @@ react-scripts@3.4.1:
   optionalDependencies:
     fsevents "2.1.2"
 
-react-slick@^0.27.1:
+react-slick@^0.27.12:
   version "0.27.12"
   resolved "https://registry.yarnpkg.com/react-slick/-/react-slick-0.27.12.tgz#9970d9f040e3ee57ad6e0ab98e4e04bb9dd823ab"
   dependencies:
